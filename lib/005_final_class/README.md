@@ -12,4 +12,6 @@
 
 لازم اي
 
-Final class يورث من كلاس تم تمييزه ب base، final، أو sealed لنفس القيود الخاصة بال base class
+Final class يورث من كلاس تم تمييزه
+ ب base، final، أو sealed
+ لنفس القيود الخاصة بال base class

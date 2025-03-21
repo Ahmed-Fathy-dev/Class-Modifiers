@@ -1,6 +1,6 @@
 خصائص الـ Interface
-
 يتم استخدامه بعد Dart 3
+
 وتم ادخالها على معمارية OOP 
 لحل مشاكل مثل 
 Fragile Base Class Problem
